@@ -1,6 +1,4 @@
-// Promedio.tsx
 
-import React from 'react';
 
 interface Alumno {
     name: string;
